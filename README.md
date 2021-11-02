@@ -27,7 +27,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/King09999/DATE_TIME_Bot)
     
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
